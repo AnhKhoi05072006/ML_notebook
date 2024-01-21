@@ -1,2 +1,2 @@
 # ML_notebook
-all implementation about ML Algorithms
+all implementation and problems about ML Algorithms
